@@ -1,0 +1,4 @@
+AFolderName
+AnotherFolder
+SomeScript.cs
+mySharpScript3.cs
